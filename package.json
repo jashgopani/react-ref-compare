@@ -1,0 +1,27 @@
+{
+  "name": "react-ref-compare",
+  "version": "1.0.0",
+  "description": "Compare ref in react with another ref or DOM elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jashgopani/react-ref-compare.git"
+  },
+  "keywords": [
+    "react",
+    "ref",
+    "refs",
+    "compare",
+    "dom",
+    "elements"
+  ],
+  "author": "jashgopani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jashgopani/react-ref-compare/issues"
+  },
+  "homepage": "https://github.com/jashgopani/react-ref-compare#readme"
+}
