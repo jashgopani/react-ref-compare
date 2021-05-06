@@ -1,6 +1,6 @@
 # react-ref-compare
 
-A simple utility for comparing refs in react either refs or DOM Elements.
+A simple utility for comparing refs in React.js with either refs or DOM Elements.
 
 ## Table of Contents
 - [Features](#features)
