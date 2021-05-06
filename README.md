@@ -2,6 +2,8 @@
 
 A simple utility for comparing refs in React.js with either refs or DOM Elements.
 
+[![GitHub issues](https://img.shields.io/github/issues/jashgopani/react-ref-compare)](https://github.com/jashgopani/react-ref-compare/issues) [![GitHub forks](https://img.shields.io/github/forks/jashgopani/react-ref-compare)](https://github.com/jashgopani/react-ref-compare/network) [![GitHub stars](https://img.shields.io/github/stars/jashgopani/react-ref-compare)](https://github.com/jashgopani/react-ref-compare/stargazers)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
