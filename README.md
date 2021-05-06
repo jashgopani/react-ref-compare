@@ -2,6 +2,18 @@
 
 A simple utility for comparing refs in react either refs or DOM Elements.
 
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+  - [1. compareRef ( object1, object2 )](#1-compareref--object1-object2-)
+  - [2. stringify ( Object )](#2-stringify--object-)
+
+## Features
+- Compare DOM and Virtual DOM elements by comparing `ref` with `ref` or with `DOM Element`.
+- Get a unique String representation of the `DOM Element` or `ref` Object.
+  
 ## Installation
 
 ```
