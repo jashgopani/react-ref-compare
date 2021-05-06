@@ -1,7 +1,7 @@
 {
   "name": "react-ref-compare",
   "version": "1.0.0",
-  "description": "Compare ref in react with another ref or DOM elements",
+  "description": "A simple utility for comparing refs in React.js with either refs or DOM Elements.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
